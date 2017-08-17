@@ -16,7 +16,6 @@
     "url": "git+https://github.com/sato-train/node-red-contrib-valve.git"
   },
   "keywords": [
-    "node-red",
     "paditch",
     "valve",
     "suiden"
